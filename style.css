@@ -201,7 +201,6 @@
     border: 4px,black,solid;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
 }
 
 #boxJ{
@@ -251,4 +250,36 @@
     background-color: purple;
 }
 
+#container5{
+    width:600px;
+    height: 400px;
+    background-color: white;
+    border: 4px,black,solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+#boxP{
+    height: 110px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: pink;
+}
+
+#boxQ{
+    height: 105px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: gray;
+}
+
+#boxR{
+    height: 120px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: purple;
+}
