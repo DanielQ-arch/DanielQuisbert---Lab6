@@ -160,5 +160,38 @@
     background-color: purple;
 }
 
+#container3{
+    width:600px;
+    height: 400px;
+    background-color: white;
+    border: 4px,black,solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#boxG{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: pink;
+}
+
+#boxH{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: gray;
+}
+
+#boxI{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: purple;
+}
 
 
