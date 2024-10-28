@@ -47,9 +47,7 @@
     border: 2px solid black;
     padding: 2px;
     background-color: yellow;
-    top: 0px;
-    right:0px;
-
+    
 }
 
 .background-image{
@@ -293,4 +291,40 @@
     flex-direction: column;
     align-content:space-evenly;
 }
+
+#container7{
+    width:600px;
+    height: 400px;
+    background-color: white;
+    border: 4px,black,solid;
+    display: flex;
+    flex-direction: row;
+}
+
+#boxS{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: pink;
+}
+
+#boxT{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: gray;
+    flex-grow: 2;
+}
+
+#boxU{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: purple;
+}
+
+
 
