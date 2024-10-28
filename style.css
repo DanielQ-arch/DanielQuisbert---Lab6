@@ -1,0 +1,13 @@
+.static-box{
+    position: static;
+}
+
+.relative-box{
+    position:relative;
+    left:30px;
+    top: 20px;
+}
+
+.absolute-box{
+    position: absolute;
+}
